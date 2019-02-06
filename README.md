@@ -38,7 +38,7 @@
 ### Perform color quantization for different values of K.
 ### Plot the compressed images and their corresponding histogram (or optionally the color pallets; as shown below for The Matrix movie).
 
-![Pic 1](https://github.com/Engineermar/Virginia-Tech-Machine-Learning-and-Data-Classifiers-Course/assignment-Picture1.png)
+![Pic 1] (https://github.com/Engineermar/Virginia-Tech-Machine-Learning-and-Data-Classifiers-Course/assignment-Picture1.png)
       
 
 

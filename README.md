@@ -38,11 +38,11 @@
 ### Perform color quantization for different values of K.
 ### Plot the compressed images and their corresponding histogram (or optionally the color pallets; as shown below for The Matrix movie).
 
-Virginia-Tech-Machine-Learning-and-Data-Classifiers-Course/assignment-Picture1.png
+![Pic 1](https://github.com/Engineermar/Virginia-Tech-Machine-Learning-and-Data-Classifiers-Course/assignment-Picture1.png)
       
 
 
-Virginia-Tech-Machine-Learning-and-Data-Classifiers-Course/assignment-Picture2.png
+![Pic 2](https://github.com/Engineermar/Virginia-Tech-Machine-Learning-and-Data-Classifiers-Course/assignment-Picture2.png)
       
 
  
@@ -50,7 +50,7 @@ Virginia-Tech-Machine-Learning-and-Data-Classifiers-Course/assignment-Picture2.p
 ### Part 2) Image segmentation is the process of partitioning an image into multiple segments, where every pixel is assigned a label such that pixels with the same label share certain characteristics.  Each of the pixels in a region is similar with respect to some characteristic or computed property, such as color, intensity, or texture. Adjacent regions are significantly different with respect to the same characteristics. In this part, we want to develop an algorithm that helps people with color blindness! Use a clustering algorithm of your choice, such as KMeans, to do this task. To find images to test your algorithm, just search “color blindness test images (Links to an external site.)” in Google Images.
 
 
-Virginia-Tech-Machine-Learning-and-Data-Classifiers-Course/assignment-Picture3.png
+![Pic 3](https://github.com/Engineermar/Virginia-Tech-Machine-Learning-and-Data-Classifiers-Course/assignment-Picture3.png)
       
 
  
@@ -59,7 +59,7 @@ Virginia-Tech-Machine-Learning-and-Data-Classifiers-Course/assignment-Picture3.p
 
  
 
-Virginia-Tech-Machine-Learning-and-Data-Classifiers-Course/assignment-Picture4.png
+![Pic 4](https://github.com/Engineermar/Virginia-Tech-Machine-Learning-and-Data-Classifiers-Course/assignment-Picture4.png)
       
 
  
@@ -68,5 +68,5 @@ Virginia-Tech-Machine-Learning-and-Data-Classifiers-Course/assignment-Picture4.p
 
  
 
-Virginia-Tech-Machine-Learning-and-Data-Classifiers-Course/assignment-Picture5.png
+![Pic 5](https://github.com/Engineermar/Virginia-Tech-Machine-Learning-and-Data-Classifiers-Course/assignment-Picture5.png)
       
